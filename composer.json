@@ -1,9 +1,8 @@
 {
     "name": "greelogix/exceptionnotifications",
-    "description": "This package will automatically send email to users.",
+    "description": "This package will automatically send email to users on exception.",
     "type": "library",
     "license": "GPL-2.0-only",
     "minimum-stability": "dev",
-    "require": {},
-    
+    "require": {}   
 }
